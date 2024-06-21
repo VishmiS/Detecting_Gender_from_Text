@@ -1,5 +1,6 @@
 # Twitter User Gender Classification
-This study investigates the procedures for determining the gender of an author on Twitter. We explore gender-related behavioral variations among Twitter users, leveraging the Twitter User Gender Classification dataset from Kaggle.
+This study investigates the procedures for determining the gender of an author on Twitter. We explore gender-related behavioral variations among Twitter users, leveraging the Twitter User Gender Classification dataset from Kaggle. 
+Link: https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification
 
 ## Methodology
 ### Data Preparation:
